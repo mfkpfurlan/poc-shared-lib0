@@ -1,6 +1,6 @@
 {
     "name": "poc-shared-lib0",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "main": "dist/index.js",
     "engines": {
         "node": "v12.13.0",
